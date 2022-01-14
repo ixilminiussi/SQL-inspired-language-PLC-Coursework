@@ -5,4 +5,4 @@ I have worked on, but I am not the sole owner or writer of this code.*
 *This coursework was about writing a language interpreter in Haskell, using Happy and Yacc. The language had to accomplish
 a set of initial tasks, but also be flexible enough to then accomplish tasks we were not yet made aware of.*
 
-*Definitely not my finest work, but something I'm glad I did and learned about.*
+*Definitely not my best work, but something I'm proud I did and learned about.*
