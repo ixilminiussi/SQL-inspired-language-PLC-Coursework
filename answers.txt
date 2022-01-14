@@ -1,0 +1,9 @@
+from A.csv and B.csv select A Conjunction B
+
+from A.csv select (A.row.3 , A.row.1) where A.column.1 == A.column.2 Order by alphabetical
+
+from Q.csv and P.csv select 
+
+A.row where not A.column.2 == ''
+
+select A.row.1, 0 , A.row.1
